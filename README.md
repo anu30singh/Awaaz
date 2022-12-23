@@ -52,8 +52,7 @@ And that's it you are all done with your installation.
 
 ## Future Scopes
 
-For our future scope we aim to scale this game to institution level and add more adventures, and proper leaderboard system which not only keeps track of a student's level but an institution's level also among other partner schools to encourage a healthy competition among our clientele.
-We will also be creating the user database to persist the data and keep track of the high scorers of our game. This will give students a reason to take interest in the game and most importantly give them the knowledge of coding universe.
+For our future scope we aim to improve this website by including database of NGOs and working more in backend side of the the site.Collaborate more NGOs and governmnet authorities for improving the quality of product. 
 
 ## 📸 Screenshots Time
 
