@@ -2,7 +2,7 @@
 
 Code Rangers is an educational , interacting and involving game designed for school students (mainly 5th class - 10th class)
 
-![image](https://user-images.githubusercontent.com/77538369/193437336-a26caf20-7c31-48b6-ae7f-696911cc2845.png)
+![image](https://raw.githubusercontent.com/anu30singh/Awaaz/main/img/AaWAZ%20(1).png?token=GHSAT0AAAAAAB4NFETWDX775ZWUW33L3WGMY5F2USQ)
 
 ## Table of Contents
 
