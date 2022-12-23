@@ -28,7 +28,7 @@
       crossorigin="anonymous"
     ></script>
      <!--for css-->
-     <link rel="stylesheet" href="style.css/style.css" />
+     <link rel="stylesheet" href="static/style.css/style.css" />
 
     <title>AAWAZ</title>
   </head>
@@ -74,12 +74,13 @@
                 
                 </p>
             </div>
-  
+            
+            {% load static %}
             <div class="col-lg-6">
               <img
                 class="img-rotate"
-                src="image/image4.png"
-                alt="iphone-mockup"
+                src= "{% static "/image/awaaz.png" %}"
+                alt="logo"
               />
             </div>
           </div>
@@ -107,7 +108,7 @@
             <div class="card-body">
               <h5 class="card-title">Register Your Complaint</h5>
               <p class="card-text">To Register your complaint click on the button below.</p>
-              <button type="button" class="btn btn-secondary"><a href="index2.html">Contact us</a></button>
+              <button type="button" class="btn btn-secondary"><a href="query.html">Register Query</a></button>
              
             </div>
           </div>

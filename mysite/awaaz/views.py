@@ -8,6 +8,6 @@ def index(request):
     return render(request,'index.html')
 
 
-def complaint(request):
-    return render(request, 'index2.html')
+def query(request):
+    return render(request, 'query.html')
     
