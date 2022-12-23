@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -28,7 +29,7 @@
       crossorigin="anonymous"
     ></script>
      <!--for css-->
-     <link rel="stylesheet" href="static/style.css/style.css" />
+     <link rel="stylesheet" href="{% static 'style.css/style.css' %}" />
 
     <title>AAWAZ</title>
   </head>
@@ -73,7 +74,7 @@
           <div class="row">
             <div class="col-lg-6 title-text">
               <img class="img-img"
-              src="image/images.jpg" alt="image"/>
+              src="{% static 'image/images.jpg' %}" alt="image"/>
                 <h1>Welcome to Aawaaz</h1>
                 <h3>A simple website for everyone.</h3>
                 <p>Good interaction between Government and General public is still a tedious process.
@@ -84,11 +85,10 @@
                 </p>
             </div>
             
-            {% load static %}
             <div class="col-lg-6">
               <img
                 class="img-rotate"
-                src= "{% static "/image/awaaz.png" %}"
+                src= "{% static '/image/awaaz.png' %}"
                 alt="logo"
               />
             </div>
@@ -117,7 +117,8 @@
             <div class="card-body">
               <h5 class="card-title">Register Your Complaint</h5>
               <p class="card-text">To Register your complaint click on the button below.</p>
-              <button type="button" class="btn btn-secondary"><a href="query.html">Register Query</a></button>
+
+              <button class="btn btn-secondary"><a href="{% url 'query' %}">Register Query</a></button>
              
             </div>
           </div>
@@ -188,7 +189,7 @@
         <i class="i-footer fab fa-facebook"></i>
         <i class="i-footer fab fa-instagram"></i>
       
-        <p class="p-footer">© Copyright AAWAZ</p>
+        <p class="p-footer">© Copyright AAWAZ 2022</p>
       </footer>
     </body>
   </html>

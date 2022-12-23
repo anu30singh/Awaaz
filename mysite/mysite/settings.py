@@ -56,7 +56,7 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR, 'templates'], #kinda create a link to 'templates' dir in our root dir
+        'DIRS': [BASE_DIR, 'templates'], #changing BASE_DIR for templates, here, changes to /templates
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -126,5 +126,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Additional locations of static files
 STATICFILES_DIRS = (
-os.path.join(BASE_DIR, "static"),
+os.path.join(BASE_DIR, 'static'),
 )
