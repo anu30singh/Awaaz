@@ -1,6 +1,5 @@
 # Awaaz
 
-
 Code Rangers is an educational , interacting and involving game designed for school students (mainly 5th class - 10th class)
 
 ![image](https://user-images.githubusercontent.com/77538369/193437336-a26caf20-7c31-48b6-ae7f-696911cc2845.png)
@@ -22,22 +21,21 @@ Code Rangers is an educational , interacting and involving game designed for sch
 
 ## Inspiration
 
-In today's digital age, the curriculum and way of teaching seems to be quite boring due to which curiosity and interest of learning something new is diminishing in children. So, we aimed to teach students in a modern way in the form of a game.
+Good communication between government and general public is still a tedious process .With our website we are trying to be medium between government authorities and general public.
 
 ## What it does?
 
-Code Rangers is an educational game which will help invoke the interest of students in coding. Herein , there are different adventures(levels) , each level introduces the user to a keyword , thus introducing them to the basic syntax or the basic-blocks of programming. Before each level , we display an adventure guide which consists of basic definitions and explanation of the keywords. Then the fun begins! As the user moves towards the level , they get a keyword which they have to guess right. Before moving to the next level , we explain the rightly guessed keyword. Isn't it amazing how the user starts learning while playing game that too  without even realising !!
-We have also built a leaderboard which will maintain the levels of students and will create a healthy competition and kids will want to play more. 
+Awaaz is an informative website , build for establishing communication. We take complaints from public and through us , their complains are sent to authorities concerned. It provides platform to user to express their concerns to government institution.
 
 ## How we built it?
 
-We built it using unity and c#.
-We explored and incorporated assests from itch.io and used github for file management. 
+We built it using html , CSS , Bootstrap and Django framework , postgreSQL .
+We used github for file management. 
 
 ## Challenges we ran into?
 
 It was our first time using Unity. Our team decided to work and explore a completely new domain.
-It was quite a challenge to not only learn about c# and unity but also make a working game in it that too only in 24 hours!! But hurray we made it.
+It was quite a challenge to not only learn about backend and unity but also make a prototype of website with it that too only in 24 hours!! But hurray we made it.
 
 
 
@@ -83,10 +81,10 @@ We will also be creating the user database to persist the data and keep track of
 
 ## License
 
-It's the  GPL-3.0 license. For more details, see the license [here](https://github.com/The-Powerpuff-Rangers/coding-rangers/blob/master/LICENSE).
+It's the  GPL-3.0 license. For more details, see the license 
 
 ## About Us
 
-We are The Powerpuff Rangers 
+We are Team BPIT.
 
 ![WhatsApp Image 2022-09-30 at 11 15 57 PM](https://user-images.githubusercontent.com/77538369/193437663-2f69c2a4-4f41-43bf-b881-c4d7968b7e06.jpeg)
