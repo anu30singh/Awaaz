@@ -1,15 +1,23 @@
 .navbar{
     
-	background-color: #fff;
+	background-color: black;
 
 }
+
+    hr{
+        border-style: dotted none none;
+        border-width: 5px;
+      
+        margin: 0;
+        color: black;
+    }
 
 
 /* first section*/
 #first-slide{
 
-	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
-    padding: 0% 15%;
+	background: #C5D0DD;		
+   
     font-family: "Monsterrat";
     text-align: center;
     font-weight: bold;
@@ -19,29 +27,36 @@
     
 
 }
-.h3-about{
+.title-text{
+    padding-top: 8%;
     line-height: 3rem;
-    color: #fff;
+    font-family: 'Noticia Text', serif;
+    font-weight: bold;
+}
+h1{
+    font-weight: bold;
+    font-size: 4rem;
 }
 
 img{
-  width: 100%;
+  width: 80%;
   padding: 3%;
+  background: grey;
 }
 
 
 /*second-section*/
 #second-slide{
   
-	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
+	background-color: #C5D0DD;	
     padding: 0% 15%;
     padding: 10% 10%;
     text-align: center;
-background-color: whitesmoke;
+
 }
 .card-text{
     font-family: "Monsterrat";
-    font-weight: bold;
+    font-weight: lighter;
     font-size: 1.5rem;
 }
 .card-title{
@@ -50,26 +65,30 @@ background-color: whitesmoke;
     font-size: 1.8rem;
 }
 .card-body{
-    background-color: #fff;
+    background-color: #9096ab;
+    border: 2px solid black;
 }
 h2{
     padding-bottom: 3% ;
 }
-.btn{
-    background-color: #fff;
-}
 
+.register{
+    text-decoration: underline;
+    font-size: 3rem;
+}
 /* testimonials */
 
 #testimonials{
    
-	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
-    padding: 0% 15%;
+    background-color: #C5D0DD;		
+    padding: 5% 15%;
     text-align: center;
-    background-color:whitesmoke;
+   
     color:black;
 }
-
+.th1{
+    text-decoration: underline;
+}
 .h2-text{
     color: black;
     font-family: 'Montserrat', sans-serif;
@@ -99,7 +118,7 @@ h2{
 /* footer */
 #footer{
  
-	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
+    background-color: #C5D0DD;			
     text-align: center;
     padding: 5% 3%;
 }
@@ -132,7 +151,8 @@ h2{
 	font-family: Raleway, sans-serif;
 }
 
-body {
+.body {
+
 	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
 }
 
