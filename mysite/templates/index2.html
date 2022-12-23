@@ -15,7 +15,7 @@
 <div class="container">
 	<div class="screen">
 		<div class="screen__content">
-			<form class="login">
+			<form class="login" action="mailto:info@londonappbrewery.com" method="post" enctype="text/plain">
 				<div class="login__field">
 					<i class="login__icon fas fa-user"></i>
 					<input type="text" class="login__input" placeholder="User name / Email">
@@ -23,7 +23,9 @@
 				<div class="login__field">
 					<label>Your Message</label><br>
 					<textarea name="Your Message" rows="10" cols="30"></textarea><br>
-				</div>
+				</div><br>
+				<input type="file" id="myFile" name="filename">
+				
 				<button class="button login__submit">
 					<span class="button__text">Submit</span>
 					<i class="button__icon fas fa-chevron-right"></i>

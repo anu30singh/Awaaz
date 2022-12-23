@@ -12,7 +12,9 @@
         color: black;
     }
 
-
+.img-img{
+	width: 30%;
+}
 /* first section*/
 #first-slide{
 
@@ -28,7 +30,7 @@
 
 }
 .title-text{
-    padding-top: 8%;
+    padding-top: 0%;
     line-height: 3rem;
     font-family: 'Noticia Text', serif;
     font-weight: bold;
@@ -40,7 +42,7 @@ h1{
 
 img{
   width: 80%;
-  padding: 3%;
+  padding: 5%;
   background: grey;
 }
 
@@ -58,6 +60,7 @@ img{
     font-family: "Monsterrat";
     font-weight: lighter;
     font-size: 1.5rem;
+	padding-bottom: 34px;
 }
 .card-title{
     font-family: "Monsterrat";
@@ -65,17 +68,20 @@ img{
     font-size: 1.8rem;
 }
 .card-body{
-    background-color: #9096ab;
+    background-color: whitesmoke;
     border: 2px solid black;
 }
 h2{
     padding-bottom: 3% ;
 }
-
+.btn-second{
+	color: black;
+}
 .register{
     text-decoration: underline;
     font-size: 3rem;
 }
+
 /* testimonials */
 
 #testimonials{
@@ -152,8 +158,7 @@ h2{
 }
 
 .body {
-
-	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
+	background-color: #C5D0DD;			
 }
 
 .container {
@@ -164,7 +169,7 @@ h2{
 }
 
 .screen {		
-	background: linear-gradient(90deg, #5D54A4, #7C78B8);		
+	background-color: #C5D0DD;	
 	position: relative;	
 	height: 600px;
 	width: 360px;	
@@ -205,7 +210,7 @@ h2{
 .screen__background__shape2 {
 	height: 220px;
 	width: 220px;
-	background: #6C63AC;	
+	background-color: #C5D0DD;	
 	top: -172px;
 	right: 0;	
 	border-radius: 32px;
@@ -214,7 +219,7 @@ h2{
 .screen__background__shape3 {
 	height: 540px;
 	width: 190px;
-	background: linear-gradient(270deg, #5D54A4, #6A679E);
+	background-color: #C5D0DD;	
 	top: -24px;
 	right: 0;	
 	border-radius: 32px;
@@ -223,7 +228,7 @@ h2{
 .screen__background__shape4 {
 	height: 400px;
 	width: 200px;
-	background: #7E7BB9;	
+	background-color: #C5D0DD;	
 	top: 420px;
 	right: 50px;	
 	border-radius: 60px;
@@ -295,6 +300,11 @@ h2{
 	margin-left: auto;
 	color: #7875B5;
 }
+
+input[type='file']{
+	color:black;
+	font-size:1.5 rem;
+  }
 
 
 
