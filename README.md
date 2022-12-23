@@ -1,6 +1,6 @@
 # Awaaz
 
-Code Rangers is an educational , interacting and involving game designed for school students (mainly 5th class - 10th class)
+Awaaz - A Medium between People and Authorities 
 
 ![image](https://raw.githubusercontent.com/anu30singh/Awaaz/main/img/AaWAZ%20(1).png?token=GHSAT0AAAAAAB4NFETWDX775ZWUW33L3WGMY5F2USQ)
 
