@@ -2,7 +2,7 @@
 
 Awaaz - A Medium between People and Authorities 
 
-![image](https://raw.githubusercontent.com/anu30singh/Awaaz/main/img/AaWAZ%20(1).png?token=GHSAT0AAAAAAB4NFETWDX775ZWUW33L3WGMY5F2USQ)
+![image](https://raw.githubusercontent.com/anu30singh/Awaaz/main/img/AaWAZ%20(1).png?token=GHSAT0AAAAAAB4NFETWLKVGLVEIJSYKW5DAY5F24SA)
 
 ## Table of Contents
 
