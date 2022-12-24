@@ -29,8 +29,8 @@ We used github for file management.
 
 ## Challenges we ran into?
 
-It was our first time using Unity. Our team decided to work and explore a completely new domain.
-It was quite a challenge to not only learn about backend and unity but also make a prototype of website with it that too only in 24 hours!! But hurray we made it.
+It was our first time using Django. Our team decided to work and explore a completely new domain.
+It was quite a challenge to not only learn about backend and ui but also make a prototype of website with it that too only in 24 hours!! But hurray we made it.
 
 
 ## Accomplishments that we're proud of?
