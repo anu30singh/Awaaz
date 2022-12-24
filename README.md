@@ -38,17 +38,11 @@ It was our first time using Unity. Our team decided to work and explore a comple
 It was quite a challenge to not only learn about backend and unity but also make a prototype of website with it that too only in 24 hours!! But hurray we made it.
 
 
-
 ## Accomplishments that we're proud of?
 
 We are proud that this project is ready for use.
 Most importantly we are proud of ourselves as we learnt and implemented everything and made an amazing game in just 24 hours.
 
-## Installation
-
-For the basic start, you can install Unity Hub(Latest LTS Version).
-After that, just install your editor of choice with your C# Support.
-And that's it you are all done with your installation.
 
 ## Future Scopes
 
