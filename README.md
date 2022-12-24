@@ -1,6 +1,6 @@
-# Awaaz
+# Aaawaaz
 
-Awaaz - A Medium between People and Authorities 
+Aaawaaz - A Medium between People and Authorities 
 
 ![image](https://github.com/anu30singh/Awaaz/blob/main/mysite/static/image/awaaz.png?raw=true)
 
@@ -11,8 +11,7 @@ Awaaz - A Medium between People and Authorities
 - [How we built it?](#how-we-built-it)
 - [Challenges we ran into?](#challenges-we-ran-into)
 - [Accomplishments that we're proud of?](#accomplishments-that-were-proud-of)
-- [What we learned?](#what-we-learned)
-- [Future Scopes](#future-scope)
+- [Future Scopes](#future-scopes)
 - [About Us](#about-us)
 
 ## Inspiration
