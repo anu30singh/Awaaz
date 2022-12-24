@@ -54,7 +54,7 @@ And that's it you are all done with your installation.
 
 - For our future scope we aim to improve this website by including database of government authorities and working more in backend side of the the site.Collaborate more for improving the quality of product.
 - Website still have some issue regarding potential security bugs which will be taken care in future.
-
+- we will give email service which will protect the privacy of our user.
 ## About Us
 
 We are Team BPIT.
