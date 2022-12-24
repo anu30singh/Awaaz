@@ -58,5 +58,3 @@ And that's it you are all done with your installation.
 ## About Us
 
 We are Team BPIT.
-
-![WhatsApp Image 2022-09-30 at 11 15 57 PM](https://user-images.githubusercontent.com/77538369/193437663-2f69c2a4-4f41-43bf-b881-c4d7968b7e06.jpeg)
