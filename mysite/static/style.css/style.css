@@ -158,7 +158,7 @@ h2{
 }
 
 .body {
-	background-color: #C5D0DD;			
+	background: linear-gradient(90deg, #c7c5f4, #776bcc);			
 }
 
 .container {
@@ -169,7 +169,7 @@ h2{
 }
 
 .screen {		
-	background-color: #C5D0DD;	
+	background: linear-gradient(90deg, #5d54a4, #7c78b8);	
 	position: relative;	
 	height: 600px;
 	width: 360px;	
@@ -219,7 +219,7 @@ h2{
 .screen__background__shape3 {
 	height: 540px;
 	width: 190px;
-	background-color: #C5D0DD;	
+	background: linear-gradient(270deg, #5d54a4, #6a679e);	
 	top: -24px;
 	right: 0;	
 	border-radius: 32px;
@@ -254,13 +254,14 @@ h2{
 
 .login__input {
 	border: none;
-	border-bottom: 2px solid #D1D1D4;
+	border-bottom: 2px solid #fff;
 	background: none;
 	padding: 10px;
 	padding-left: 24px;
 	font-weight: 700;
 	width: 75%;
 	transition: .2s;
+	color: #fff;
 }
 
 .login__input:active,
