@@ -52,35 +52,8 @@ And that's it you are all done with your installation.
 
 ## Future Scopes
 
-For our future scope we aim to improve this website by including database of NGOs and working more in backend side of the the site.Collaborate more NGOs and governmnet authorities for improving the quality of product. 
-
-## 📸 Screenshots Time
-
-![image](https://user-images.githubusercontent.com/77538369/193439676-065f1b84-c3b2-4971-b833-ddc40f97ef64.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439681-6ec7dd03-c512-4d25-94e0-bd80b8b96502.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439796-a52f879f-3926-4f0f-8eae-78eb7ac10ac8.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439686-0283be30-f735-4efa-b77f-2af3d93f22e0.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439698-275533bb-0d85-4dda-8df1-a8181a77f5e8.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439885-eb4c5921-b7c9-447e-9712-6fca0cc16645.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439981-96e800bf-7107-4eb4-b4b5-af6dc6268653.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439893-dffd3e0f-8afc-4587-a343-8cfcf237d6b5.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439706-f3a383d8-133a-455e-b144-01f31ad42f01.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439711-94cfc797-d024-4897-b95f-b166ccb14430.png)
-
-![image](https://user-images.githubusercontent.com/77538369/193439718-7d888a89-904d-4c41-aa34-4bd29f92f7b8.png)
-
-## License
-
-It's the  GPL-3.0 license. For more details, see the license 
+- For our future scope we aim to improve this website by including database of government authorities and working more in backend side of the the site.Collaborate more for improving the quality of product.
+- Website still have some issue regarding potential security bugs which will be taken care in future.
 
 ## About Us
 
