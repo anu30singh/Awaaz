@@ -11,12 +11,8 @@ Awaaz - A Medium between People and Authorities
 - [How we built it?](#how-we-built-it)
 - [Challenges we ran into?](#challenges-we-ran-into)
 - [Accomplishments that we're proud of?](#accomplishments-that-were-proud-of)
-- [Installation](#installation)
 - [What we learned?](#what-we-learned)
 - [Future Scopes](#future-scope)
-- [Screenshots Time](#screenshots-time)
-- [Contributing](#contributing)
-- [License](#license)
 - [About Us](#about-us)
 
 ## Inspiration
