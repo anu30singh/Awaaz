@@ -1,6 +1,6 @@
-# Aaawaaz
+# Aawaaz
 
-Aaawaaz - A Medium between People and Authorities 
+Aawaaz - A Medium between People and Authorities 
 
 ![image](https://github.com/anu30singh/Awaaz/blob/main/mysite/static/image/awaaz.png?raw=true)
 
