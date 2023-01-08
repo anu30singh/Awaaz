@@ -20,7 +20,7 @@ Good communication between government and general public is still a tedious proc
 
 ## What it does?
 
-Awaaz is an informative website , build for establishing communication. We take complaints from public and through us , their complains are sent to authorities concerned. It provides platform to user to express their concerns to government institution.
+Aawaaz is an informative website, build for establishing communication. We take complaints from the public and through us, their complaints are sent to the authorities concerned. It provides a platform for users to express their concerns to a government institution.
 
 ## How we built it?
 
